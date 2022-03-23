@@ -1,4 +1,5 @@
-## Bem vindo ao meu perfil! Sou a Júlia Evelyn, atualmente estudante de Engenharia de Software na PUC Minas 😊
+## Bem vindo ao meu perfil!
+### Sou a Júlia Evelyn, atualmente estudante de Engenharia de Software na PUC Minas 😊
 <div align="center">
   <a href="https://github.com/ju-evelyn">
   <img height="143em" src="https://github-readme-stats.vercel.app/api?username=ju-evelyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
