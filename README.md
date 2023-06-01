@@ -3,7 +3,6 @@
 ### searching for knowledge and trying to share mine too. Call me anytime, let's talk and grow up together!
 <div align="center">
   <a href="https://github.com/ju-evelyn">
-  <img height="143em" src="https://github-readme-stats.vercel.app/api?username=ju-evelyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju-evelyn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 </div>
